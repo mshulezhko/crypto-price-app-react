@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+.cryptoHeader {
+  background-color: orange;
+  height: 150px;
+}
+
+.cryptoDisplay {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.coinBlock {
+  margin: 20px;
+  background: black;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+img {
+  max-width: 100px;
+}
+
+input {
+  width: 500px;
+  font-size: 20px;
+  padding: 12px 20px;
+  margin-top: 30px;
+  border-radius: 10px;
+}
+
+button {
+  background-color: black;
+  color: white;
+  font-size: 18px;
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin: 5px;
+}
